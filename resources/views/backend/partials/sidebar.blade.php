@@ -39,74 +39,74 @@
                         </p>
                     </a>
                 </li>
-                <li class="nav-item">
-                    <a href="list-nhan-khau.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Nhân Khẩu
-                        </p>
-                    </a>
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-nhan-khau.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Nhân Khẩu--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
 
-                </li>
-                <li class="nav-item">
-                    <a href="list-tam-tru.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Tạm Trú
-                        </p>
-                    </a>
+{{--                </li>--}}
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-tam-tru.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Tạm Trú--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
 
-                </li>
+{{--                </li>--}}
 
-                </li>
-                <li class="nav-item">
-                    <a href="list-tam-vang.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Tạm Vắng
-                        </p>
-                    </a>
-                </li>
+{{--                </li>--}}
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-tam-vang.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Tạm Vắng--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
 
-                </li>
-                <li class="nav-item">
-                    <a href="list-chuyen-khau.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Chuyển Khẩu
-                        </p>
-                    </a>
-                </li>
+{{--                </li>--}}
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-chuyen-khau.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Chuyển Khẩu--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
 
-                </li>
-                <li class="nav-item">
-                    <a href="list-tach-khau.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Tách Khẩu
-                        </p>
-                    </a>
-                </li>
+{{--                </li>--}}
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-tach-khau.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Tách Khẩu--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
 
-                </li>
-                <li class="nav-item">
-                    <a href="list-vi-pham.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Vi Phạm
-                        </p>
-                    </a>
-                </li>
+{{--                </li>--}}
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-vi-pham.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Vi Phạm--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
 
-                </li>
-                <li class="nav-item">
-                    <a href="list-nhan-vien.html" class="nav-link">
-                        <i class="nav-icon fas fa-th"></i>
-                        <p>
-                            Quản Lý Nhân Viên
-                        </p>
-                    </a>
-                </li>
+{{--                </li>--}}
+{{--                <li class="nav-item">--}}
+{{--                    <a href="list-nhan-vien.html" class="nav-link">--}}
+{{--                        <i class="nav-icon fas fa-th"></i>--}}
+{{--                        <p>--}}
+{{--                            Quản Lý Nhân Viên--}}
+{{--                        </p>--}}
+{{--                    </a>--}}
+{{--                </li>--}}
                 <li class="nav-item">
                     <a href="{{ route('logout') }}" class='nav-link'
                        onclick="event.preventDefault(); document.getElementById('logout-form').submit();">
